@@ -27,7 +27,7 @@ the top-down pyramid (right).But, where U-net only copy the features and append 
  apply a 1x1 convolution layer before adding them. This allows the bottom-up pyramid called 
 “backbone” to be pretty much whatever you want.
 
-##Accuracy Comparison & Improvement
+## Accuracy Comparison & Improvement
  * Before:
  
    ![image](https://user-images.githubusercontent.com/41162942/151974330-fb860a4d-adce-42da-be73-249a443872fe.png)
